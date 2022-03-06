@@ -2,6 +2,7 @@
 debug*
 datasets/
 checkpoints/
+wandb/
 results/
 build/
 dist/
